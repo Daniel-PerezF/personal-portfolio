@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h3 className="text-[red]">test</h3>
+      <h3 className="text-[red]">testing deployment</h3>
     </>
   );
 }
